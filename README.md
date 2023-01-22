@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco
-- 📚 I’m currently studying for a Bachelor of Software Engineering
-- 💞️ I’m looking to gain experience in blockchain development 
+- 📚 Software Engineering Graduate
+- 💞️ Looking to gain experience in blockchain development 
 - 📫 Please feel free to email me at marcocatanzariti@gmail.com for work/collabs
 
 <!---
